@@ -1,6 +1,6 @@
 # notichat
 
-> backend stuff
+> A chat app for groups.
 
 ## About
 

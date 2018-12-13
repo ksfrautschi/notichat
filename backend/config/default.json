@@ -9,7 +9,7 @@
   "sqlite": {
     "client": "sqlite3",
     "connection": {
-      "filename": "notichat.sqlite"
+      "filename": "notichat.squlite3"
     }
   }
 }
